@@ -1,5 +1,3 @@
-# jogoemruby
-jogo
 def da_boas_vindas
 	puts "Bem vindo ao jogo"
 	puts "Bem viaod ao mundo de Eldoor\nVocê é um guerreiro do reino de Eldin e terá que salvar a princesa Vandin"
@@ -162,3 +160,5 @@ op_orc op
 
 puts "Parabéns, você concluiu o jogo, jovem guerreiro #{nome}"
 parar_tela
+
+
